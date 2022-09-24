@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Order Summary Component](https://cgrkzlkn.github.io/stats-preview-card/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-using-css-grid-and-mobilefirst-workflow-It3EMExBeC)
+- Live Site URL: [Stats Preview Card](https://cgrkzlkn.github.io/stats-preview-card/)
 
 ## My process
 
